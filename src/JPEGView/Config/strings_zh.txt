@@ -1,10 +1,10 @@
-﻿// This file must be encoded with UTF-8 (e.g. with Windows Notepad)
+// This file must be encoded with UTF-8 (e.g. with Windows Notepad)
 // Filename is 'strings_%languagecode%.txt' where %languagecode% is the ISO 639 language code e.g. 'zh' for Chinese
 // Format is: English string<tab>Translated string<newline>
 //Translation Info
 //Translator:风逸兰
 //Update:2021/06/28 补全翻译，调整部分原有翻译使其更符合简体中文阅读习惯 by dunkeng
-
+//Update:2022/05/29 追加2个新增内容的翻译 by dunkeng
 Contrast	对比度
 Brightness	亮度
 Sharpen	锐化
@@ -205,6 +205,7 @@ no	否
 Show navigation panel	显示导航面板
 Show/hide navigation panel	显示/隐藏导航面板
 About JPEGView...	关于 JPEGView...
+About JPEGView (64 bit version)...	关于 JPEGView (64bit版)...
 SIMD mode used:	SIMD 模式下使用:
 Number of CPU cores used:	所使用的 CPU 核心数量:
 Licensed under the GNU general public license (GPL), see readme file for details:	基于 GNU General Public License (GPL) 授权，请参阅自述文件的详细信息:
@@ -415,3 +416,4 @@ Update user settings with new settings from settings template file?	使用设置
 All existing user settings will be preserved.	将保留所有现有用户设置。
 Location:	地点:
 Altitude (m):	高度 (m):
+Open containing folder in Explorer	打开文件所在的目录
